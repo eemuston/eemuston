@@ -13,7 +13,7 @@
 
 ###
 
-<h4 align="left">Techs</h4>
+<h4 align="left">Techs & Tools</h4>
 
 ###
 
