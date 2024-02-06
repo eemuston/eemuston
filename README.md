@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi. I am Eemeli, 22 years old developer from Helsinki.<br>I am currently studying programming at <a href="https://www.hive.fi/en/">Hive Helsinki</a>.<br>I like to hangout with friends and go to gym when I am not coding.</p>
+<p align="left">Hi. I am Eemeli, 22 years old young developer from Helsinki.<br>I am currently studying programming at Hive Helsinki.<br>I like to hangout with friends and go to gym when I am not coding.</p>
 
 ###
 
@@ -32,8 +32,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/html5-original.svg" height="40" alt="html logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
 ###
