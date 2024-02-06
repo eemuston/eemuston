@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi. I am Eemeli, 22 years old young developer from Helsinki.<br>I am currently studying programming at Hive Helsinki.<br>I like to hangout with friends and go to gym when I am not coding.</p>
+<p align="left">Hi. I am Eemeli, 22 years old developer from Helsinki.<br>I am currently studying programming at Hive Helsinki.<br>I like to hangout with friends and go to gym when I am not coding.</p>
 
 ###
 
