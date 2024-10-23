@@ -2,7 +2,14 @@
 
 ###
 
-<p align="left">Hi. I am Eemeli, 23 years old developer from Helsinki.<br>I am currently studying programming at Hive Helsinki.<br>I like to hangout with friends and go to gym when I am not coding.</p>
+<p align="left">I'm a programmer from Helsinki looking forward to pursuing a career in the 
+tech industry. Eager to learn and become a better programmer every day, I've 
+had a pleasurable time over the past two years studying at Hive Helsinki 
+coding school. There, I've been able to develop my tech skills as well as 
+improve my communication and teamwork abilities. I like to go to the gym 
+and hangout with friends when I am not coding. I'm always excited to take on 
+new challenges and find creative solutions, whether it's in my projects or in 
+everyday life.</p>
 
 ###
 
