@@ -4,8 +4,8 @@
 
 <p align="left">I'm a programmer from Helsinki looking forward to pursuing a career in the 
 tech industry. </br>
-Eager to learn and become a better programmer every day, I've 
-had a pleasurable time over the past two years studying at Hive Helsinki 
+Eager to learn and become a better programmer every day. </br>
+I've had a pleasurable time over the past two years studying at Hive Helsinki 
 coding school.</br>
 There, I've been able to develop my tech skills as well as 
 improve my communication and teamwork abilities.</br>
