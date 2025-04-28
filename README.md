@@ -2,18 +2,13 @@
 
 ###
 
-<p align="left">I'm a programmer from Helsinki looking forward to pursuing a career in the 
-tech industry. </br>
-Eager to learn and become a better programmer every day. </br>
-I've had a pleasurable time over the past two years studying at Hive Helsinki 
-coding school.</br>
-There, I've been able to develop my tech skills as well as 
-improve my communication and teamwork abilities.</br>
-I like to go to the gym 
-and hangout with friends when I am not coding. </br>
-I'm always excited to take on 
-new challenges and find creative solutions, whether it's in my projects or in 
-everyday life.</br> </p>
+<p align="left">
+I'm a passionate programmer from Helsinki, currently focused on building a career in web development.</br>
+I laid the foundation for my tech skills during my time at Hive Helsinki, where I also developed strong problem-solving and collaboration abilities.</br>
+Since then, I've been actively sharpening my skills through hands-on projects, continuous learning, and real-world practice.</br>
+I'm committed to improving my web development skills every day and enjoy creating modern, user-friendly applications.</br>
+I'm always eager to learn, grow, and take on challenges that push me to become a better developer.</br>
+</p>
 
 ###
 
