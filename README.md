@@ -45,18 +45,3 @@ I'm always eager to learn, grow, and take on challenges that push me to become a
 </div>
 
 ###
-
-<h4 align="left">My Socials</h4>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/eemeli-mustonen-b76a4b231/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/meemeli.mustone/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
