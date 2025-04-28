@@ -4,11 +4,12 @@
 
 <p align="left">
 I'm a passionate programmer from Helsinki, currently focused on building a career in web development.</br>
-I laid the foundation for my tech skills during my time at Hive Helsinki, where I also developed strong problem-solving and collaboration abilities.</br>
-Since then, I've been actively sharpening my skills through hands-on projects, continuous learning, and real-world practice.</br>
+I laid the foundation for my tech skills at Hive Helsinki, where I also strengthened my problem-solving and teamwork abilities.</br>
+Since then, I've been actively growing through hands-on projects, continuous learning, and real-world practice.</br>
 I'm committed to improving my web development skills every day and enjoy creating modern, user-friendly applications.</br>
 I'm always eager to learn, grow, and take on challenges that push me to become a better developer.</br>
 </p>
+
 
 ###
 
