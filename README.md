@@ -1,13 +1,15 @@
 <h1 align="left">Eemeli Mustonen</h1>
-
+<h1 align="left">Full-Stack AI Engineer | Hive Helsinki Alumni</h1>
 ###
 
 <p align="left">
-I'm a passionate programmer from Helsinki, currently focused on building a career in web development.</br>
-I laid the foundation for my tech skills at Hive Helsinki, where I also strengthened my problem-solving and teamwork abilities.</br>
-Since then, I've been actively growing through hands-on projects, continuous learning, and real-world practice.</br>
-I'm committed to improving my web development skills every day and enjoy creating modern, user-friendly applications.</br>
-I'm always eager to learn, grow, and take on challenges that push me to become a better developer.</br>
+I’m a developer focused on building end-to-end AI applications. My background is in systems programming (C/C++), which gives me a deep understanding of performance and memory management. Currently, I’m specializing in:
+
+AI Infrastructure: Architecting RAG (Retrieval-Augmented Generation) pipelines and vector search optimization.
+
+Full-Stack Development: Building scalable, secure web applications with React, Node.js, and TypeScript.
+
+Data Grounding: Creating AI systems that deliver accurate, data-backed results using modern LLMs and vector databases like Qdrant.
 </p>
 
 
