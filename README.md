@@ -1,5 +1,6 @@
 <h1 align="left">Eemeli Mustonen</h1>
-<h1 align="left">Full-Stack AI Engineer | Hive Helsinki Alumni</h1>
+<h3 align="left">Full-Stack AI Engineer | Hive Helsinki Alumni</h3>
+
 ###
 
 <p align="left">
