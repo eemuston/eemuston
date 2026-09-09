@@ -51,20 +51,3 @@ Data Grounding: Creating AI systems that deliver accurate, data-backed results u
 </div>
 
 ###
-
-<h4 align="left">GitHub Stats</h4>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=eemuston&show_icons=true&theme=dracula&hide_border=false"
-    height="150"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eemuston&layout=compact&theme=dracula&hide_border=false"
-    height="150"
-    alt="Top languages"
-  />
-</div>
-
-###
